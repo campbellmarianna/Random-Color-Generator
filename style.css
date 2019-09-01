@@ -1,0 +1,40 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Nunito";
+    background-color:#fd4d3f;
+}
+
+img {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+    color: aqua;
+}
+
+button {
+    width: 350px;
+    height: 100px;
+    border: none;
+    font-size: 30px;
+    background-color: purple;
+    color: white;
+    display: block;
+    font-family: inherit;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
